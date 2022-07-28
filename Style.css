@@ -1,7 +1,11 @@
 body{
+
+    min-height: 100vh;
+    width: 100vw;
     overflow-x: hidden;
 
 }
+
 #img_1{
     filter: brightness(50%);
 height: 100px;
